@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getAuthor()
+comment0.text=\r\n\ This\ Method\ is\ being\ called\ to\ get\ Author.\ \r\n\ @return\ Author\r\n
+comment1.params=author
+comment1.target=void\ setAuthor(java.lang.String)
+comment1.text=\r\n\ This\ Method\ being\ called\ to\ set\ Author.\r\n\ @param\ author\r\n
+comment2.params=booklist
+comment2.target=java.lang.String\ toString(java.util.List)
+comment2.text=\r\n\ This\ method\ is\ to\ display\ the\ all\ the\ books\ which\ are\ available\ in\ the\ bookList.\ And\ those\ Books\ who\ are\ not\ available\ are\ being\ not\ displayed\ to\ the\ customer.\r\n\ @param\ booklist\ contains\ all\ the\ books.\r\n\ @return\ the\ concatenated\ list\ of\ books\ in\ the\ shop\ and\ its\ being\ displayed\ over\ there.\r\n
+comment3.params=price\ quantity
+comment3.target=int\ sellCopies(int,\ int)
+comment3.text=\r\n\ Method\ sellCopies\ to\ calculated\ the\ total\ price.\r\n\ @param\ price\ of\ the\ selected\ books.\r\n\ @param\ quantity\ of\ the\ selected\ book\ required.\r\n\ @return\ total\ price.\r\n
+comment4.params=bookRating\ select
+comment4.target=void\ updateRating(int,\ int)
+comment4.text=\r\n\ This\ Method\ is\ being\ used\ to\ update\ rating\ and\ Rating\ object\ is\ being\ created\ and\ rating\ is\ being\ transfered\ to\ updateRating\ method\ in\ Class\ Rating.\r\n\ @param\ bookRating\r\n\ @param\ select\r\n
+numComments=5

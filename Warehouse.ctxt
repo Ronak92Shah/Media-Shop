@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getBooks()
+comment0.text=\r\n\ Here\ we\ store\ all\ the\ information\ of\ the\ books.One\ by\ one\ and\ we\ store\ it\ in\ the\ ArrayList.\r\n\ @return\ list\ of\ Books.\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getCDs()
+comment1.text=\r\n\ Here\ we\ store\ all\ the\ information\ of\ the\ cds.One\ by\ one\ and\ we\ store\ it\ in\ the\ ArrayList.\r\n\ @return\ list\ of\ CDs.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getMovies()
+comment2.text=\r\n\ Here\ we\ store\ all\ the\ information\ of\ the\ movies.One\ by\ one\ and\ we\ store\ it\ in\ the\ ArrayList.\r\n\ @return\r\n
+numComments=3

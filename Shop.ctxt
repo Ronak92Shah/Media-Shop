@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=letter
+comment0.target=java.lang.String\ displaySalesItems(java.lang.String)
+comment0.text=\r\n\ Method\ Name\ displaySalesItems\ starts\ here\ which\ displays\ the\ items\ to\ sell.\r\n
+comment1.params=letter\ select\ quantity
+comment1.target=int\ mediaSell(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Method\ is\ being\ called\ to\ get\ the\ total\ price\ of\ the\ media\ sold.And\ to\ update\ the\ availability.\r\n\ @param\ letter\ is\ the\ choice\ of\ media.\r\n\ @param\ select\ is\ the\ choice\ among\ media.\r\n\ @param\ quantity\ is\ the\ no\ of\ quantity\ ordered.\r\n\ @return\ total\ price.\r\n
+comment2.params=
+comment2.target=int\ getBooksSold()
+comment2.text=\r\n\ This\ Method\ gives\ the\ Total\ Book\ Sold.\r\n\ @return\ BooksSold\r\n
+comment3.params=
+comment3.target=int\ getcdsSold()
+comment3.text=\r\n\ This\ Method\ gives\ the\ Total\ CD\ Sold.\r\n\ @return\ CDssold\r\n
+comment4.params=
+comment4.target=int\ getmoviesSold()
+comment4.text=\r\n\ This\ Method\ gives\ the\ Total\ Movies\ Sold.\r\n\ @return\ MoviesSold\r\n
+comment5.params=
+comment5.target=long\ calculateRevenue()
+comment5.text=\r\n\ To\ calculate\ the\ Total\ Revenue\ by\ selling\ Books,\ CDs\ and\ Movies.\ \r\n\ @return\ totalRevenue\r\n
+numComments=6
